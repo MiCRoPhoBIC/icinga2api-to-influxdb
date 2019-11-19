@@ -1,0 +1,1 @@
+# icinga2api-to-influxdb
